@@ -1,0 +1,10 @@
+{
+  "first-component": "চলো কম্পোনেন্টের সাথে পরিচিত হই",
+  "importing-and-exporting-component": "কম্পোনেন্ট Import এবং Export কর",
+  "writting-markup-with-jsx": "JSX দিয়ে Markup লিখ",
+  "use-javascript-in-jsx-using-curly-brackets": "kurly brackets দিয়ে JSX এ JavaScript লিখ",
+  "passing-props-to-a-component": "Props দিয়ে কম্পোনেন্টে  ডাটা পাঠাও",
+  "conditional-rendering": "শর্ত সাপেক্ষে কম্পোনেন্ট রেন্ডার কর",
+  "rendering-lists": "মাল্টিপল কম্পোনেন্ট রেন্ডার কর",
+  "keeping-components-pure": "কম্পোনেন্টস গুলো পিউর রাখ" 
+}
