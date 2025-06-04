@@ -60,7 +60,7 @@ pnpm dev
 2. **ক্লোন করুন** আপনার ফর্ক করা রিপোজিটরিটি:
 
    ```bash
-   git clone https://github.com/your-username/react-bangla-tutorial.git
+   git clone https://github.com/your-username/React-Bangla-Documentation.git
    ```
 
 3. **নতুন ব্রাঞ্চ তৈরি করুন**:
