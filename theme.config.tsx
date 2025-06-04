@@ -2,7 +2,7 @@ import { useRouter } from "next/router";
 import { DocsThemeConfig, useConfig } from "nextra-theme-docs";
 import Donate from "./components/Donate";
 import Logo from "./components/Logo";
-
+// Theme config
 const config: DocsThemeConfig = {
   logo: <Logo />,
   project: {
