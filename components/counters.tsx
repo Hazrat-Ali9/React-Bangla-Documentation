@@ -1,5 +1,5 @@
 // Example from https://beta.reactjs.org/learn
-// Coountry
+// Country
 import { useState } from 'react'
 import styles from './counters.module.css'
 
