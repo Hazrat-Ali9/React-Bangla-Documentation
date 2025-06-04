@@ -24,10 +24,10 @@ const config: DocsThemeConfig = {
     const { route } = useRouter();
     if (route !== "/") {
       return {
-        titleTemplate: "%s – React Bangla Tutorial",
+        titleTemplate: "%s – React Bangla Documentation",
       };
     }
-    return { titleTemplate: "React Bangla Tutorial" };
+    return { titleTemplate: "React Bangla Documentation" };
   },
   head: () => {
     const { asPath } = useRouter();
