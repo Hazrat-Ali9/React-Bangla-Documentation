@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./course-promotion.module.css";
-
+// course 
 const CoursePromotion: React.FC = () => {
   return (
     <div className={styles.courseContainer}>
