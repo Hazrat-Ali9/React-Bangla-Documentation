@@ -16,34 +16,33 @@ const Donate: React.FC = () => {
           আপনাদের সাথে শেয়ার করি।
         </p>
         <p className={styles.donateText}>
-          এই কাজগুলো করতে আমার প্রতিদিন প্রচুর সময়, ধৈর্য, ও ইন্টারনেট খরচ হয়।
-          আপনি যদি চান, একটি কফির সমমূল্যের{" "}
-          <strong className={styles.highlight}>ছোট ডোনেশন</strong>
-          করে আমাকে আরও উৎসাহ দিতে পারেন।
+          {" "}
+          <strong className={styles.highlight}></strong>
+          
         </p>
         <p className={styles.donateText}>
           🏦{" "}
           <strong>
-            জনতা ব্যাংক (পাবনা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় শাখা)
+          
           </strong>
           <br />
-          হিসাব নাম: Md. Mojnu Miah
+          হিসাব নাম: 
           <br />
           হিসাব নম্বর:{" "}
-          <strong className={styles.greenText}>015022507014</strong>
+          <strong className={styles.greenText}></strong>
         </p>
         <p className={styles.donateText}>
-          📲 <strong>Bkash / Nagad / Rocket (Personal):</strong> 01788262433
+          📲 <strong> (Personal):</strong> 
         </p>
         <p className={styles.donateText}>
-          💰 <strong>ক্রিপ্টো ওয়ালেট:</strong>
+          💰 <strong>:</strong>
           <br />
           🔸 BTC (BNB Smart Chain):{" "}
-          <code>0xb2066847163c0a1d21cbb8a38eec7632f1f071e5</code>
+          <code></code>
           <br />
-          🔸 Litecoin: <code>LRYT3fVyAEUWcPhHpuJtL3bszAjqKetbKx</code>
+          🔸 Litecoin: <code></code>
           <br />
-          🔸 Bitcoin: <code>1CqRZFJkMCZWpUwr9aipNdpD4XymTxZ1MC</code>
+          🔸 Bitcoin: <code></code>
         </p>
 
         <a
