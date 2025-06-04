@@ -48,7 +48,7 @@ npm run dev
 pnpm dev
 ```
 
-এখন আপনার ব্রাউজারে যান: [http://localhost:3000](http://localhost:3000)
+এখন আপনার ব্রাউজারে যান: [http://localhost:3000](http://localhost:3000/)
 
 ---
 
