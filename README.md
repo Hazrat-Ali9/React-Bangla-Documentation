@@ -116,7 +116,7 @@ react-bangla-tutorial/
 
 ## 📢 যোগাযোগ
 
-- 💻 [React Bangla Tutorial কোড রিপোজিটরি](https://https://github.com/Hazrat-Ali9/React-Bangla-Documentation)
+- 🙀 [React Bangla Tutorial কোড রিপোজিটরি](https://https://github.com/Hazrat-Ali9/React-Bangla-Documentation)
 - 💻 [React Bangla Tutorial কোড রিপোজিটরি](https://https://github.com/Hazrat-Ali9/React-Bangla-Documentation)
 আপনার যদি কোনো প্রশ্ন, পরামর্শ বা সমস্যা থাকে, তাহলে [Issues](https://github.com/Hazrat-Ali9/React-Bangla-Documentation/issues) বিভাগে জানান অথবা সরাসরি [Pull Request](https://github.com/Hazrat-Ali9/React-Bangla-Documentation) পাঠান।
 
